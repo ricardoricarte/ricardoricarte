@@ -8,7 +8,7 @@
 ## I'm José Ricardo - 💻 
 
 
-Sou estudante, atualmente cursando Pós Graduação de Desenvolvimento de Aplicativos Móveis na faculdade Iesb Brasilia/DF. Desde muito cedo na minha vida, comecei a me apaixonar pela tecnologia😍Esse amor me ajudou a desenvolver uma mentalidade tecnológica muito boa e me deu a curiosidade de aprender mais. Acredito firmemente que nenhuma quantidade de conhecimento é conhecimento suficiente .🧠
+I am a student, currently studying Postgraduate in Mobile Application Development at Iesb Brasilia / DF. Since very early in my life, I started to fall in love with technology😍This love helped me to develop a very good technological mentality and gave me the curiosity to learn more. I firmly believe that no amount of knowledge is sufficient knowledge.🧠
 
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/ricardoricarte)
