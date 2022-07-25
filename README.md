@@ -8,7 +8,7 @@
 ## I'm José Ricardo - 💻 
 
 
-I am a student, currently studying Postgraduate Software Architecture at Iesb Anhanguera / DF. Since very early in my life, I started to fall in love with technology😍This love helped me to develop a very good technological mentality and gave me the curiosity to learn more. I firmly believe that no amount of knowledge is sufficient knowledge.🧠
+I am a student, currently studying Postgraduate Software Architecture at Anhanguera / DF. Since very early in my life, I started to fall in love with technology😍This love helped me to develop a very good technological mentality and gave me the curiosity to learn more. I firmly believe that no amount of knowledge is sufficient knowledge.🧠
 
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/ricardoricarte)
