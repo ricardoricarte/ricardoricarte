@@ -37,4 +37,4 @@ Since very early in my life, I started to fall in love with technology😍This l
 
 - Enjoy it!! o/
 
-![myfile](https://user-images.githubusercontent.com/52455330/139071980-91302a8a-37b1-4196-803e-f91b1de2ee5b.gif)
+<img src="https://github.com/asd/privategithubrepo/images/output/video1.gif" width="48">
