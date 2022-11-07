@@ -14,6 +14,7 @@ Since very early in my life, I started to fall in love with technology😍This l
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/ricardoricarte)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ze-ricardo/)](https://www.linkedin.com/in/ze-ricardo/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jricardo.ricarte@gmail.com)](mailto:jricardo.ricarte@gmail.com)
+<a href="https://www.buymeacoffee.com/codeandmusic" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 - Thanks for visiting. 
 
