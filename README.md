@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-<img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/57039079/68556083-b2038700-0428-11ea-8add-e9abd09f6b23.gif">
+![DTtx](https://user-images.githubusercontent.com/56279938/207225604-22006804-b07c-4126-a7ca-b284ae63e448.gif)
+
 
 # Welcome!
 
