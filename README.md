@@ -12,7 +12,7 @@
 Since very early in my life, I started to fall in love with technology😍This love helped me to develop a very good technological mentality and gave me the curiosity to learn more. I firmly believe that no amount of knowledge is sufficient knowledge.🧠
 
 <div text-align: center>
-### I Have Experience with these Technologies.
+🚀🚀 I Have Experience with these Technologies. 🚀🚀
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/ze-ricardo/)](https://www.linkedin.com/in/ze-ricardo/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitemailto:jricardo.ricarte@gmail.com)](mailto:jricardo.ricarte@gmail.com)
