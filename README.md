@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-
 ![DTtx](https://user-images.githubusercontent.com/56279938/207225604-22006804-b07c-4126-a7ca-b284ae63e448.gif)
-
 
 # Welcome!
 
@@ -12,7 +10,7 @@
 Since very early in my life, I started to fall in love with technology😍This love helped me to develop a very good technological mentality and gave me the curiosity to learn more. I firmly believe that no amount of knowledge is sufficient knowledge.🧠
 
 
-🚀🚀 I Have Experience with these Technologies. 🚀🚀
+🚀🚀 I Have Experience with these Technologies... 🚀🚀
 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/ze-ricardo/)](https://www.linkedin.com/in/ze-ricardo/)
