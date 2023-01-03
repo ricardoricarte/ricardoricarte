@@ -4,7 +4,8 @@
 
 # BEM VINDO 👽!
 
-## Meu nome é José Ricardo - 💻 - Tecnólogo em Análise e Desenvolvimento de Sistemas.👨‍🎓
+## Meu nome é José Ricardo - 💻 
+- Tecnólogo em Análise e Desenvolvimento de Sistemas.👨‍🎓
 
 ## Sobre Mim
 Sou Desenvolvedor Java - Sei trabalhar com o Framework Spring Boot e Persistencia de Dados JPA e  Banco de dados Relacionais e não Relacionais ex: MongoDB, MySQL e Postgres.
