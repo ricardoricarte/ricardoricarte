@@ -37,9 +37,11 @@ E Também sou Apaixonado por música🎼, sou Músico Auto de Data, por um bom t
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-- Thanks for visiting. 
+- Obrigado pela Visita. 
 
-- Enjoy it!! o/
+- Aproveite!! o/
+
+- Qualquer dúvida entre em Contato 😉☎✉
 
 ![gifs-do-filme-de-volta-para-o-futuro-0](https://user-images.githubusercontent.com/56279938/210287603-2bd01aa2-0405-40f6-9faa-492ebaa88a04.gif)
 
