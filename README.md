@@ -42,7 +42,6 @@ E Também sou Apaixonado por música🎼, sou Músico Auto de Data, por um bom t
 
 - Aproveite!! o/
 
-- Qualquer dúvida entre em Contato 😉☎✉
 
 ![gifs-do-filme-de-volta-para-o-futuro-0](https://user-images.githubusercontent.com/56279938/210287603-2bd01aa2-0405-40f6-9faa-492ebaa88a04.gif)
 
