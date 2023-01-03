@@ -1,18 +1,18 @@
-### Hi there 👋
+### Olá 👋
 
 ![DTtx](https://user-images.githubusercontent.com/56279938/207225604-22006804-b07c-4126-a7ca-b284ae63e448.gif)
 
-# Welcome!
+# BEM VINDO 👽!
 
-## I'm José Ricardo - 💻 
+## Meu nome é José Ricardo - 💻 - Tecnólogo em Análise e Desenvolvimento de Sistemas.👨‍🎓
 
-## About me 
-Sou Desenvolvedor Java - Sei trabalhar com o Framework Spring Boot e Persistencia de Dados JPA e com Banco de dados Relacionais e não Relacionais ex: MongoDB, MySQL e Postgres.
+## Sobre Mim
+Sou Desenvolvedor Java - Sei trabalhar com o Framework Spring Boot e Persistencia de Dados JPA e  Banco de dados Relacionais e não Relacionais ex: MongoDB, MySQL e Postgres.
 Desde muito cedo comecei a me apaixonar por tecnologia😍 Esse amor me ajudou a desenvolver uma mentalidade tecnológica muito boa e me deu a curiosidade de aprender mais. Acredito firmemente que nenhuma quantidade de conhecimento é conhecimento suficiente.🧠
 E Também sou Apaixonado por música🎼, sou Músico Auto de Data, por um bom tempo fui professor de Violão e de Guitarra 🎸  por uma Escola de Música de Brasilia e de Guarapari ES.
 
 
-🚀🚀 Essas tecnologias abaixo são referências de uso do dia-a-dia e das que estou estudando. E tambem é caminho para contato e para o Blog que tenho... 🚀🚀
+🚀🚀 Essas tecnologias abaixo são referências de uso do meu dia-a-dia e algumas que estou estudando ou tenho interesse. E tambem é caminho para contato, e para o meu Blog... 🚀🚀
 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/ze-ricardo/)](https://www.linkedin.com/in/ze-ricardo/)
