@@ -7,7 +7,9 @@
 ## I'm José Ricardo - 💻 
 
 ## About me 
-Since very early in my life, I started to fall in love with technology😍This love helped me to develop a very good technological mentality and gave me the curiosity to learn more. I firmly believe that no amount of knowledge is sufficient knowledge.🧠
+Sou Desenvolvedor Java - Sei trabalhar com o Framework Spring Boot e Persistencia de Dados JPA e com Banco de dados Relacionais e não Relacionais ex: MongoDB, MySQL e Postgres.
+Desde muito cedo comecei a me apaixonar por tecnologia😍 Esse amor me ajudou a desenvolver uma mentalidade tecnológica muito boa e me deu a curiosidade de aprender mais. Acredito firmemente que nenhuma quantidade de conhecimento é conhecimento suficiente.🧠
+E Também sou Apaixonado por música🎼, sou Músico Auto de Data, por um bom tempo fui professor de Violão e de Guitarra 🎸  por uma Escola de Música de Brasilia e de Guarapari ES.
 
 
 🚀🚀 I Have Experience with these Technologies... 🚀🚀
