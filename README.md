@@ -13,12 +13,14 @@ Desde muito cedo comecei a me apaixonar por tecnologia😍 Esse amor me ajudou a
 E Também sou Apaixonado por música🎼, sou Músico Auto de Data, por um bom tempo fui professor de Violão e de Guitarra 🎸  por uma Escola de Música de Brasilia e de Guarapari ES.
 
 
-🚀🚀 Essas tecnologias abaixo são referências de uso do meu dia-a-dia e algumas que estou estudando ou tenho interesse.🚀🚀
-
+# CONTATO 👀!
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/ze-ricardo/)](https://www.linkedin.com/in/ze-ricardo/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitemailto:jricardo.ricarte@gmail.com)](mailto:jricardo.ricarte@gmail.com)
 <a href="https://www.buymeacoffee.com/codeandmusic" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="28" width="174"></a>
+
+🚀🚀 Essas tecnologias abaixo são referências de uso do meu dia-a-dia e algumas que estou estudando ou tenho interesse em aprender.🚀🚀
+
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
