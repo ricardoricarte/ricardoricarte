@@ -18,7 +18,6 @@ E Também sou Apaixonado por música🎼, sou Músico Auto de Data, por um bom t
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/ze-ricardo/)](https://www.linkedin.com/in/ze-ricardo/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitemailto:jricardo.ricarte@gmail.com)](mailto:jricardo.ricarte@gmail.com)
 <a href="https://www.buymeacoffee.com/codeandmusic" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="28" width="174"></a>
-[![https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white=https://api.whatsapp.com/send?phone=5561981904967&text=Bem%20Vindo!)
 
 🚀 Essas tecnologias abaixo são referências de uso do meu dia-a-dia e algumas que estou estudando ou tenho interesse em aprender.🚀
 
